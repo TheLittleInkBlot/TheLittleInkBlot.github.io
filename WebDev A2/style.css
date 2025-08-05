@@ -1,0 +1,48 @@
+@media(max-width: 100px){
+    
+}
+nav ul li{display:inline;}
+#page1{background:lightskyblue}
+#page2{background: dodgerblue}
+#page3{background:rgb(128, 112, 216)}
+#page4{background:rgb(115, 104, 238)}
+/*--------------moth code game----------*/
+#durianId {
+    position: relative;
+    width: 10vw
+}
+#motharea{height:50vh; width:50vh; background:lightskyblue}
+
+.flexcontainer {
+ display: flex;
+ flex-wrap: wrap;
+}
+p{
+    background-color: lightcyan;
+    color: navy
+}
+body{
+    background-color:lightskyblue;
+}
+article{
+    background-color: lightskyblue
+}
+#page1btn{
+    border: 3px groove midnightblue;
+}
+#page2btn{
+    border: 3px groove navy;
+}
+#page3btn{
+    border: 3px groove royalblue;
+}
+#page4btn{
+    border: 3px groove dodgerblue;
+}
+#page5btn{
+    border: 3px groove cornflowerblue;
+}
+
+#wrap{
+    border: 10px groove rgb(107, 133, 213);
+}
